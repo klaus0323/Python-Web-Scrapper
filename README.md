@@ -28,4 +28,9 @@ Usage is pretty simple. Mostly you should be able to put in an URL to the site o
 
 So in this case we know that the pack of Cherry MX key switches from AliExpress costs $8,90. Note that a list is returned. Some sites may report multiple prices instead of just one.
 
+The final result will be demonstrated through bar chart (or line chart under some occasion)，one demonstration of the result demonstration looks like below:
+
+![image](https://user-images.githubusercontent.com/73679709/151211219-6ae85f39-5ea4-4ff8-bfe7-fa597d8c6a26.png)
+
+
 This is my first solo project, and I know there are many things to be improved. But hey, that's how things start.
